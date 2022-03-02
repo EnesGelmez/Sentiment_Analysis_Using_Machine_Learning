@@ -39,4 +39,4 @@ Bu hesaplamalardan sonra algoritmalar kullanılarak programa bu hesap öğretilm
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
 [product-screenshot]:IMDBReviews.png
-[product-screenshot2]:Algorithm.png
+[product-screenshot2]:Algorithms.png
