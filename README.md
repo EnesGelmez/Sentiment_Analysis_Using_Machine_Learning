@@ -23,7 +23,7 @@ Bu hesaplamalardan sonra algoritmalar kullanılarak programa bu hesap öğretilm
 ### Kullanılan ortamlar
 
 * [Jupyter Notebook](https://jupyter.org/)
-* [Excel]
+* Excel
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
