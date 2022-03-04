@@ -37,6 +37,6 @@ Bu hesaplamalardan sonra algoritmalar kullanılarak programa bu hesap öğretilm
 [issues-shield]: https://img.shields.io/github/issues/EnesGelmez/Sentiment_Analysis_Using_Machine_Learning.svg?style=for-the-badge
 [issues-url]: https://github.com/EnesGelmez/Sentiment_Analysis_Using_Machine_Learning/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/enes-gelmez-514397197/
+[linkedin-url]: https://www.linkedin.com/in/enes-gelmez/
 [product-screenshot]:IMDBReviews.png
 [product-screenshot2]:Algorithms.png
